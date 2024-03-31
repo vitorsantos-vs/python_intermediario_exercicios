@@ -1,0 +1,114 @@
+Titanic,Usuario1,5
+Titanic,Usuario2,4
+Inception,Usuario1,5
+Inception,Usuario2,3
+Matrix,Usuario3,5
+Matrix,Usuario4,4
+Clube da Luta,Usuario1,5
+Clube da Luta,Usuario3,4
+O Poderoso Chefão,Usuario2,5
+O Poderoso Chefão,Usuario4,5
+Forrest Gump,Usuario1,4
+Forrest Gump,Usuario2,3
+A Origem,Usuario3,5
+A Origem,Usuario4,4
+Avatar,Usuario1,4
+Avatar,Usuario2,5
+Avatar,Usuario3,3
+Avatar,Usuario4,4
+Avatar,Usuario5,5
+O Senhor dos Anéis,Usuario6,5
+O Senhor dos Anéis,Usuario7,4
+O Senhor dos Anéis,Usuario8,5
+O Senhor dos Anéis,Usuario9,3
+O Senhor dos Anéis,Usuario10,4
+Star Wars,Usuario11,5
+Star Wars,Usuario12,5
+Star Wars,Usuario13,4
+Star Wars,Usuario14,5
+Star Wars,Usuario15,4
+Interestelar,Usuario16,4
+Interestelar,Usuario17,5
+Interestelar,Usuario18,4
+Interestelar,Usuario19,3
+Interestelar,Usuario20,5
+Vingadores,Usuario21,5
+Vingadores,Usuario22,4
+Vingadores,Usuario23,5
+Vingadores,Usuario24,4
+Vingadores,Usuario25,5
+Coringa,Usuario26,5
+Coringa,Usuario27,4
+Coringa,Usuario28,3
+Coringa,Usuario29,5
+Coringa,Usuario30,4
+A Origem,Usuario31,5
+A Origem,Usuario32,4
+A Origem,Usuario33,5
+A Origem,Usuario34,4
+A Origem,Usuario35,5
+Duna,Usuario36,4
+Duna,Usuario37,5
+Duna,Usuario38,4
+Duna,Usuario39,3
+Duna,Usuario40,5
+Blade Runner,Usuario41,5
+Blade Runner,Usuario42,4
+Blade Runner,Usuario43,5
+Blade Runner,Usuario44,4
+Blade Runner,Usuario45,5
+Gladiador,Usuario46,5
+Gladiador,Usuario47,4
+Gladiador,Usuario48,5
+Gladiador,Usuario49,4
+Gladiador,Usuario50,5
+O Pianista,Usuario51,5
+O Pianista,Usuario52,4
+O Pianista,Usuario53,5
+O Pianista,Usuario54,4
+O Pianista,Usuario55,5
+La La Land,Usuario56,4
+La La Land,Usuario57,5
+La La Land,Usuario58,4
+La La Land,Usuario59,3
+La La Land,Usuario60,5
+Moonlight,Usuario61,5
+Moonlight,Usuario62,4
+Moonlight,Usuario63,5
+Moonlight,Usuario64,4
+Moonlight,Usuario65,5
+Parasita,Usuario66,5
+Parasita,Usuario67,4
+Parasita,Usuario68,5
+Parasita,Usuario69,4
+Parasita,Usuario70,5
+Django Livre,Usuario71,5
+Django Livre,Usuario72,4
+Django Livre,Usuario73,5
+Django Livre,Usuario74,4
+Django Livre,Usuario75,5
+O Grande Hotel Budapeste,Usuario76,4
+O Grande Hotel Budapeste,Usuario77,5
+O Grande Hotel Budapeste,Usuario78,4
+O Grande Hotel Budapeste,Usuario79,3
+O Grande Hotel Budapeste,Usuario80,5
+Os Incríveis,Usuario81,5
+Os Incríveis,Usuario82,4
+Os Incríveis,Usuario83,5
+Os Incríveis,Usuario84,4
+Os Incríveis,Usuario85,5
+Toy Story,Usuario86,5
+Toy Story,Usuario87,4
+Toy Story,Usuario88,5
+Toy Story,Usuario89,4
+Toy Story,Usuario90,5
+Procurando Nemo,Usuario91,4
+Procurando Nemo,Usuario92,5
+Procurando Nemo,Usuario93,4
+Procurando Nemo,Usuario94,3
+Procurando Nemo,Usuario95,5
+Shrek,Usuario96,5
+Shrek,Usuario97,4
+Shrek,Usuario98,5
+Shrek,Usuario99,4
+Shrek,Usuario100,5

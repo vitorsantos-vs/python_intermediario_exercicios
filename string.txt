@@ -1,0 +1,1 @@
+Olá, este é um exemplo de um arquivo de texto. Ele contém várias palavras e pontuação. Vamos contar quantas palavras existem neste arquivo!
